@@ -1,0 +1,12 @@
+C:\Users\nwatt\source\repos\LearningBlazor\PizzaPlace\PizzaPlace\Shared\bin\Debug\net5.0\PizzaPlace.Shared.deps.json
+C:\Users\nwatt\source\repos\LearningBlazor\PizzaPlace\PizzaPlace\Shared\bin\Debug\net5.0\PizzaPlace.Shared.dll
+C:\Users\nwatt\source\repos\LearningBlazor\PizzaPlace\PizzaPlace\Shared\bin\Debug\net5.0\ref\PizzaPlace.Shared.dll
+C:\Users\nwatt\source\repos\LearningBlazor\PizzaPlace\PizzaPlace\Shared\bin\Debug\net5.0\PizzaPlace.Shared.pdb
+C:\Users\nwatt\source\repos\LearningBlazor\PizzaPlace\PizzaPlace\Shared\obj\Debug\net5.0\PizzaPlace.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nwatt\source\repos\LearningBlazor\PizzaPlace\PizzaPlace\Shared\obj\Debug\net5.0\PizzaPlace.Shared.AssemblyInfoInputs.cache
+C:\Users\nwatt\source\repos\LearningBlazor\PizzaPlace\PizzaPlace\Shared\obj\Debug\net5.0\PizzaPlace.Shared.AssemblyInfo.cs
+C:\Users\nwatt\source\repos\LearningBlazor\PizzaPlace\PizzaPlace\Shared\obj\Debug\net5.0\PizzaPlace.Shared.csproj.CoreCompileInputs.cache
+C:\Users\nwatt\source\repos\LearningBlazor\PizzaPlace\PizzaPlace\Shared\obj\Debug\net5.0\PizzaPlace.Shared.dll
+C:\Users\nwatt\source\repos\LearningBlazor\PizzaPlace\PizzaPlace\Shared\obj\Debug\net5.0\ref\PizzaPlace.Shared.dll
+C:\Users\nwatt\source\repos\LearningBlazor\PizzaPlace\PizzaPlace\Shared\obj\Debug\net5.0\PizzaPlace.Shared.pdb
+C:\Users\nwatt\source\repos\LearningBlazor\PizzaPlace\PizzaPlace\Shared\obj\Debug\net5.0\PizzaPlace.Shared.csprojAssemblyReference.cache

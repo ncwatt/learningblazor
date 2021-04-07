@@ -1,0 +1,12 @@
+C:\Users\nwatt\source\repos\LearningBlazor\MyFirstBlazor\MyFirstBlazor\Shared\bin\Debug\net5.0\MyFirstBlazor.Shared.deps.json
+C:\Users\nwatt\source\repos\LearningBlazor\MyFirstBlazor\MyFirstBlazor\Shared\bin\Debug\net5.0\MyFirstBlazor.Shared.dll
+C:\Users\nwatt\source\repos\LearningBlazor\MyFirstBlazor\MyFirstBlazor\Shared\bin\Debug\net5.0\ref\MyFirstBlazor.Shared.dll
+C:\Users\nwatt\source\repos\LearningBlazor\MyFirstBlazor\MyFirstBlazor\Shared\bin\Debug\net5.0\MyFirstBlazor.Shared.pdb
+C:\Users\nwatt\source\repos\LearningBlazor\MyFirstBlazor\MyFirstBlazor\Shared\obj\Debug\net5.0\MyFirstBlazor.Shared.csprojAssemblyReference.cache
+C:\Users\nwatt\source\repos\LearningBlazor\MyFirstBlazor\MyFirstBlazor\Shared\obj\Debug\net5.0\MyFirstBlazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nwatt\source\repos\LearningBlazor\MyFirstBlazor\MyFirstBlazor\Shared\obj\Debug\net5.0\MyFirstBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\nwatt\source\repos\LearningBlazor\MyFirstBlazor\MyFirstBlazor\Shared\obj\Debug\net5.0\MyFirstBlazor.Shared.AssemblyInfo.cs
+C:\Users\nwatt\source\repos\LearningBlazor\MyFirstBlazor\MyFirstBlazor\Shared\obj\Debug\net5.0\MyFirstBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\nwatt\source\repos\LearningBlazor\MyFirstBlazor\MyFirstBlazor\Shared\obj\Debug\net5.0\MyFirstBlazor.Shared.dll
+C:\Users\nwatt\source\repos\LearningBlazor\MyFirstBlazor\MyFirstBlazor\Shared\obj\Debug\net5.0\ref\MyFirstBlazor.Shared.dll
+C:\Users\nwatt\source\repos\LearningBlazor\MyFirstBlazor\MyFirstBlazor\Shared\obj\Debug\net5.0\MyFirstBlazor.Shared.pdb
